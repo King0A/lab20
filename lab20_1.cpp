@@ -21,7 +21,7 @@ string toUpperStr(string x){
 }
 
 void importDataFromFile(){
-
+    
 }
 
 void getCommand(){
